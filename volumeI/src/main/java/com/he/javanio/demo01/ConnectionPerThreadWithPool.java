@@ -1,4 +1,4 @@
-package javanio.demo01;
+package com.he.javanio.demo01;
 
 import java.io.OutputStream;
 import java.net.ServerSocket;
